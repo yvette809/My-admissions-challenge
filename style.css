@@ -1,0 +1,175 @@
+body{
+    color:  #2f4f4f;
+    font-family: 'Merriweather', serif;
+    background-color: #87cefa;
+}
+
+h1{
+    font-family: 'Dynalight', cursive;
+    font-size: 100px;
+    margin-top: 50px auto 0 auto;
+  color:#e6e6fa;
+
+}
+
+h2{
+    color: 	#bc8f8f;
+    padding-bottom: 10px;
+    font-size: 3 rem;
+    font-weight: normal;
+    font-family: 'Merriweather', serif;
+}
+h3{
+    color:#bc8f8f;
+    font-family: 'Merriweather', serif;
+}
+p{
+font-weight: normal;
+font-size: 20px;
+font-family: 'Merriweather', serif;
+line-height: 2;
+}
+
+hr{
+    border: dotted #EAF6F6 8PX;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    top: 400px;
+    
+}
+
+.top-container{
+
+text-align: center;
+position: relative;
+padding-top: 100px;
+
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+.intro{
+    color:#e6e6fa;
+    font-weight: bold;
+    font-size: 30px;
+}
+.profile-img{
+    position: relative;
+}
+.profile{
+    text-align: center;
+}
+a:hover.web-link{
+    color:#87cefa;
+
+    }
+
+
+.info{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+.skills{
+    text-align: center;
+}
+
+.skill-row{
+    width: 50%;
+    text-align: center;
+}
+.contact-me{
+    text-align: center;
+}
+
+.bottom-container{
+    background-color: #7b68ee;
+    text-align: center;
+    padding: 50px 0 20px;
+
+    }
+.footer-link{
+    color: #bc8f8f;
+    font-family: 'Merriweather', serif;
+    text-decoration: none;
+    margin: 20px 40px;
+}
+a:hover.footer-link{
+    color: #EAF6F6;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.8 rem;
+    padding: 25px 0;
+}
+.skill-img{
+    float: left;
+}
+.skill-img2{
+    float: right;
+    padding-left: 20px;
+    margin-top: 60px;
+}
+
+#core-skills{
+    font-size: 50px;
+}
+.design{
+    margin-right: 350px;
+}
+#champion{
+    margin-right: 350px;
+}
+
+.classname {
+	-moz-box-shadow: 3px 4px 0px 0px #899599;
+	-webkit-box-shadow: 3px 4px 0px 0px #899599;
+	box-shadow: 3px 4px 0px 0px #899599;
+	background-color:#ededed;
+	-webkit-border-top-left-radius:5px;
+	-moz-border-radius-topleft:5px;
+	border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-moz-border-radius-topright:5px;
+	border-top-right-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-moz-border-radius-bottomright:5px;
+	border-bottom-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-moz-border-radius-bottomleft:5px;
+	border-bottom-left-radius:5px;
+text-indent:0;
+	display:inline-block;
+	color:#3a8a9e;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #e1e2ed;
+}.classname:hover {
+	background-color:#bab1ba;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
